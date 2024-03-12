@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=2c4HPDAO_-k
+
+HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows 
+Add key: Explorer 
+Add Dword32: DisableSearchBoxSuggestions 
+Set value to 1
